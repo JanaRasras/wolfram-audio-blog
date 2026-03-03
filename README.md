@@ -1,6 +1,8 @@
 
 # Visualizing Sound: Audio Analysis with Wolfram Language
 
+https://community.wolfram.com/groups/-/m/t/3646965?p_p_auth=ANQZ02Cp
+
 *What does a bird chirp look like? How is a piano note different from a drum beat when you see them? In this post, we'll explore how Wolfram Language can turn sound into vivid, interactive visualizations — revealing structure in audio that your ears alone can't perceive.*
 
 ---
